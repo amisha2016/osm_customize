@@ -1,0 +1,37 @@
+<html><body>
+<h4>SPT Test: Site location</h4>
+<form action="process.php" method="post"> 
+<select name="zoom" id="zoom"> 
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option selected>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+</select>
+Latitude: <input name="lat" type="text" id="lat"/> 
+Longitude: <input name="lon" type="text" id="lon"/> 
+<button type="submit" onclick="qwer()" >submit</button>
+</form>
+<script type="text/javascript">
+	console.log("lat");
+	function qwer(){
+		a = document.getElementById("lat").value;
+		b = document.getElementById("lon").value;
+		c = document.getElementById("zoom").value;
+
+
+		//console.log(a);
+		sessionStorage.setItem("lat", a);
+		sessionStorage.setItem("lon", b);
+		sessionStorage.setItem("zoom",c);
+		//alert(a);
+	}
+</script>
+</body></html>
+
+

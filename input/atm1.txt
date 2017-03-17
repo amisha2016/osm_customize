@@ -1,0 +1,8 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+30.8791058	75.8589964	Punjab National Bank	Cash Available Rs. 2000000, Queue 750	ca.png	24,24	0,-24
+30.8434801	75.8623353	Oriental Bank Of Commerce	Cash Available Rs. 1000000, Queue 600	ca.png	24,24	0,-24
+30.893997	75.8581242	HDFC Bank	Cash Available Rs. 100000, Queue 100	ca.png	24,24   0,-24
+30.8608311	75.8594127	Centurion Bank	Cash Available Rs. 500000, Queue 450	ca.png	24,24   0,-24
+30.8782978	75.8589696	Oriental Bank Of Commerce	Cash Available Rs. 1500000, Queue 500	ca.png	24,24	0,-24
+30.8609502	75.8595304	HDFC ATM	Cash Available Rs. 1000000, Queue 600	ca.png	24,24	0,-24
+
